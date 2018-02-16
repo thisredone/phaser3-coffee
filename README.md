@@ -1,8 +1,9 @@
-*** phaser3-coffee
+## phaser3-coffee
+
 Bundled with parcel
 
 
-** Usage
+### Usage
 ```
 yarn
 yarn run dev
