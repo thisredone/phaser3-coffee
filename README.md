@@ -1,4 +1,4 @@
-## phaser3-coffee
+## phaser3-coffee-parcel
 
 Bundled with parcel
 
